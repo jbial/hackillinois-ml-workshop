@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn==0.10.0
+pandas==1.0.2
+ipython
+jupyterlab
+
