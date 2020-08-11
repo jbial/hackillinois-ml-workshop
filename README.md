@@ -1,5 +1,5 @@
 # An Introduction to Machine Learning
-This repo contains an in depth introduction to supervised machine learning with a focus on regression for the 2020 HackIllinois technical workshop on machine learning in Python. The goal of this repo is to give the students a rigorous introduction to the topic of regression using libraries such as NumPy and Pandas. The recording of the tutorial can be found [here](https://www.youtube.com/watch?v=Q97ZEgupAvY).  
+This repo contains an in depth introduction to supervised machine learning with a focus on regression for the 2020 HackIllinois technical workshop on machine learning in Python. The goal of this repo is to give the students a rigorous introduction to the topic of regression using libraries such as NumPy and Pandas. The recording of the tutorial can be found [here](https://www.youtube.com/watch?v=Q97ZEgupAvY). In order to see the properly rendered LaTeX equations, the notebook should be opened in Jupyter Notebook.
 
 Note: This notebook has been updated since the original recording.
 
