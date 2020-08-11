@@ -3,13 +3,13 @@ This repo contains an in depth introduction to supervised machine learning with 
 
 Note: This notebook has been updated since the original recording.
 
-#### Setup
 ***
-Please run `pip3 install -r requirements.txt` in the terminal to download all the necessary packages for this tutorial.
-
+#### Setup
+Please run `pip3 install -r requirements.txt` to download all the necessary packages for this tutorial.
+***
 
 #### References
-***
+
 - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 - [Pattern Recognition & Machine learning](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/) (Bishop 2006)
-- [Probablistic Machine Learning](https://www.cs.ubc.ca/~murphyk/MLbook/)(Murphy 2012)
+- [Probablistic Machine Learning](https://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy 2012)
