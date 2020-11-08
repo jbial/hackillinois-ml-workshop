@@ -3,9 +3,10 @@ This repo contains an in depth introduction to supervised machine learning with 
 
 The recording of the tutorial can be found [here](https://www.youtube.com/watch?v=Q97ZEgupAvY). 
 
-**Note**: In order to see the properly rendered LaTeX equations, the notebook should be opened in Jupyter Notebook.
-
-Note: This notebook has been updated since the original recording.
+***
+#### Notes
+- This notebook has been updated since the original recording
+- In order to see the properly rendered LaTeX equations, the notebook should be opened in Jupyter Notebook.
 
 ***
 #### Setup
